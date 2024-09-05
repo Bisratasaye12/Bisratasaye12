@@ -1,8 +1,9 @@
-# Hello
+# Hello!
 # I'm Bisrat,a Full-Stack Web and Mobile App Developer 👨‍💻 
 
-🔭 I’m currently working on Frontend, Backend, and Mobile App Development<br>🌱 I’m currently learning Software Engineering degree<br>💬 Ask me about Python, Go, JS, and competitive programming<br>
+🔭 I’m currently working on Frontend, Backend, and Mobile App Development<br>🌱 I’m currently learning Software Engineering degree<br>💬 Ask me about Python, Go, JS, and competitive programming<be>
 
+![](https://res.cloudinary.com/dvydmzccg/image/upload/v1725543679/_0e6e30dc-7e68-4f00-8641-9d0c4ac76a29_hodcwa.jpg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bisrat-asaye) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/BisratA) 
