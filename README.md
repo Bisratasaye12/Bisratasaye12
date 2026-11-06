@@ -3,13 +3,13 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=500&size=32&pause=1000&color=2F81F7&center=true&width=700&height=60&lines=Welcome+to+my+Github!+;Fullstack+%26+AI+Engineer;LLM+apps+%C2%B7+RAG+%C2%B7+Speech+%26+NLP" alt="Typing SVG" /></a>
 </div>
 
-Fullstack & AI engineer in Addis Ababa. I build LLM-powered products end to end — TypeScript/Next.js frontends, Go and Node backends, and the retrieval, speech and NLP pieces in between. Particular interest in language technology for Amharic and other low-resource languages.
+Fullstack & AI engineer in Addis Ababa. I build LLM-powered products end to end: TypeScript/Next.js frontends, Go and Node backends, and the retrieval, speech and NLP pieces in between. Particular interest in language technology for Amharic and other low-resource languages.
 
 <p align="center">
   <img height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </p>
 
-**Currently:** shipping fullstack products (React/Next.js, NestJS, Flutter) and LLM features — agents, RAG, voice.
+**Currently:** shipping fullstack products (React/Next.js, NestJS, Flutter) and LLM features like agents, RAG and voice.
 
 #### Selected work
 
